@@ -1,0 +1,12 @@
+
+.mycontainer{
+    margin-bottom: 10px;
+}
+
+.myButton{
+    display: inline-flex;
+}
+
+.spacing {
+    padding-right: 20px;
+}
